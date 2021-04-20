@@ -41,6 +41,8 @@ Despite the fact that the modern world offers a huge number of opportunities to 
 ## The real picture
 ![image link](./images/jodaman.png)
 
+:poop: :poop: :poop: :poop: :poop:
+
 # Go to top 
 
 [link](#top)
