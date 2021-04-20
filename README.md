@@ -32,4 +32,4 @@ Despite the fact that the modern world offers a huge number of opportunities to 
 (click for help) [https://help.github.com/en]
 
 ##here is an image
-[image link] (./images/jodaman.jpg)
+[image link](./images/jodaman.jpg)
