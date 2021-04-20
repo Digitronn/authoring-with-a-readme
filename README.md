@@ -6,7 +6,7 @@ This following is an [external link](https://source.unsplash.com/user/erondu). S
 
 ## Internal link
 
-# top
+# About the Expo
 
 This [link](#details) link will take you there.
 
@@ -44,3 +44,8 @@ Despite the fact that the modern world offers a huge number of opportunities to 
 # Go to top 
 
 [link](#top)
+
+2nd Table 
+| Names  | CLass  |
+|---|---|
+|  ![Minion](./images/jodaman.png)| ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")  |
