@@ -2,7 +2,7 @@
 
 ## External link
 
-This following is an [external link](https://source.unsplash.com/user/erondu). See yo on the flipside. 
+This following is an [external link](https://source.unsplash.com/user/erondu). See you on the flipside. 
 
 ## Internal link
 
@@ -21,3 +21,15 @@ Film photography took an important place in the history of photography, as well 
 Despite the fact that the modern world offers a huge number of opportunities to simplify the creation of photographs, many photographers remain faithful to this genre.
 
 # down 
+
+##table
+
+| col1 | col2 | col3 |
+| --- | --- | --- |
+| content1 | content2 | content3 |
+
+##here is some documentation
+(click for help) [https://help.github.com/en]
+
+##here is an image
+[image link] (./images/jodaman.jpg)
