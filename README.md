@@ -22,14 +22,17 @@ Despite the fact that the modern world offers a huge number of opportunities to 
 
 # down 
 
-##table
+## table
 
 | col1 | col2 | col3 |
 | --- | --- | --- |
 | content1 | content2 | content3 |
 
-##here is some documentation
+## here is some documentation
 (click for help) [https://help.github.com/en]
 
-##here is an image
+## here is an image
 [image link](./images/jodaman.jpg)
+
+## The real picture
+![image link](./images/jodaman.jpg)
